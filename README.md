@@ -27,20 +27,19 @@ When I'm not coding, you’ll find me fishing by the water or hiking a scenic tr
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hernani-silva-560a7b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hernani-silva-560a7b272" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
----
+
 
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-<!-- HTML5 -->
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><!-- CSS3 -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/><!-- SASS -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/><!-- JavaScript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><!-- TypeScript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><!-- React -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-
+</p>
 
 
 
@@ -61,9 +60,9 @@ When I'm not coding, you’ll find me fishing by the water or hiking a scenic tr
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 
 ---
-
+## 📈 Analytics
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hcs-silva&show_icons=true&locale=en&layout=compact" alt="hcs-silva" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hcs-silva&show_icons=true&locale=en" alt="hcs-silva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hcs-silva&" alt="hcs-silva" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hcs-silva&" alt="hcs-silva" /></p>
