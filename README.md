@@ -30,7 +30,7 @@ Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeki
 
 ### What I'm working on
 
-🚀 **Recent Highlight**: Built a full-stack pet-sitting marketplace ([PawKeeper](https://github.com/hcs-silva/Module2Project)) with real-time messaging (Socket.io), JWT authentication, and MongoDB database
+🚀 Recent Highlight: Co-developed PawKeeper with Luke Ferrell and Katya Salata - a full-stack pet-sitting marketplace ([link](https://github.com/rephlax/PawKeeper-LHK-FE) featuring real-time messaging (Socket.io), JWT authentication, and MongoDB database
 
 
 🔧 **Current Focus**: Deepening TypeScript skills and exploring Next.js for production applications
@@ -110,25 +110,16 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hcs-silva&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+
+
 ---
-[![](https://visitcount.itsvg.in/api?id=hcs-silva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/>  
-
+<div align="center">
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=hcs-silva&&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hcs-silva&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/hcs-silva?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/hcs-silva?affiliations=OWNER&style=social)
+![GitHub stars](https://img.shields.io/github/stars/hcs-silva?affiliations=OWNER&style=social)
 
-  
-
-<br/>  
-
-
-<br />
+</div>
 
 
