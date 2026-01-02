@@ -102,29 +102,18 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 
 <br>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hcs-silva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hcs-silva&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcs-silva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hcs-silva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hcs-silva&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-</td><td valign="top" width="50%">
+---
+[![](https://visitcount.itsvg.in/api?id=hcs-silva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcs-silva&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table> 
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcs-silva&theme=default&hide_border=true" width="48%" />
-</div>
-
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=hcs-silva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcs-silva&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>  
 
   
