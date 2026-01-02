@@ -1,4 +1,6 @@
-## Hey 👋, I'm Hernâni Silva  
+## Hey 👋, I'm Hernâni Silva
+### Full Stack Web Developer | MERN Stack | Berlin Internship Experience
+
   
 
 <a href="https://github.com/hcs-silva" target="_blank">
@@ -7,6 +9,12 @@
 <a href="https://linkedin.com/in/hernani-silva-webdev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
 
 
@@ -22,8 +30,7 @@ Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeki
 
 ### What I'm working on
 
-
-🚀 **Recent Highlight**: Built a full-stack pet-sitting marketplace ([PawKeeper](link)) with real-time messaging (Socket.io), JWT authentication, and MongoDB database
+🚀 **Recent Highlight**: Built a full-stack pet-sitting marketplace ([PawKeeper](https://github.com/hcs-silva/Module2Project)) with real-time messaging (Socket.io), JWT authentication, and MongoDB database
 
 
 🔧 **Current Focus**: Deepening TypeScript skills and exploring Next.js for production applications
@@ -89,11 +96,7 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 💼 LinkedIn: [hernani-silva-webdev](https://linkedin.com/in/hernani-silva-webdev)  
 🌐 Portfolio: [hernani-silva-dev.netlify.app](https://hernani-silva-dev.netlify.app)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 
@@ -108,7 +111,19 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcs-silva&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table> 
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcs-silva&theme=default&hide_border=true" width="48%" />
+</div>
+
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=hcs-silva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcs-silva&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
 
 <br/>  
 
@@ -116,7 +131,10 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=hcs-silva&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=hcs-silva&&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/hcs-silva?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/hcs-silva?affiliations=OWNER&style=social)
+
   
 
 <br/>  
