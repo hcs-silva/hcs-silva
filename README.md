@@ -12,46 +12,92 @@
 
 
 ### Glad to see you here!  
-I'm a passionate Full Stack Web Developer from Portugal, specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I graduated in February 22nd 2025 and have been actively building projects and sharpening my skills since then.
+I'm a Full Stack Web Developer from Portugal, specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). 
 
-Let´s connect.  
+**Recently completed a 3-month software development internship at Kontext21 (Berlin)** where I built production features including an SDK playground and Electron desktop application using React and Node.js.
+
+Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeking full-time or remote developer roles across Europe.
+
+<br>
+
+### What I'm working on
+
+
+🚀 **Recent Highlight**: Built a full-stack pet-sitting marketplace ([PawKeeper](link)) with real-time messaging (Socket.io), JWT authentication, and MongoDB database
+
+
+🔧 **Current Focus**: Deepening TypeScript skills and exploring Next.js for production applications
+
+
+💼 **Seeking**: Junior Full Stack Developer roles (remote/hybrid) across Europe
+
+
+🛠️ **Core Tech**: JavaScript (ES6+), React, Node.js, Express, MongoDB, Git, RESTful APIs
   
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>
+
+### Backend
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
+
+### Tools & Other
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="40" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>
+
 
 <br/>  
 
-- 🔭 I love turning ideas into interactive web experiences.  
-  
+## 🚀 Featured Projects
 
-- - 🌱 Currently exploring **SASS** and **PostgreSQL**.  
-  
+### [PawKeeper](https://github.com/hcs-silva/pawkeeper) | Full-Stack Pet Sitting Marketplace
+🔹 **Stack**: React, Node.js, Express, MongoDB, Socket.io  
+🔹 **Features**: JWT authentication, real-time messaging, booking system, user reviews  
+🔹 **Deployed**: [Live Demo](https://pawkeeper.netlify.app) | [GitHub](https://github.com/hcs-silva/pawkeeper)
 
-- - 🛠️ Tech I enjoy working with: JavaScript, React, Node.js, Express, MongoDB, SASS, TypeScript.  
-  
+### [Exhibitly](https://github.com/hcs-silva/exhibitly) | Personal Media Library
+🔹 **Stack**: React, JSON Server, SASS, Axios  
+🔹 **Features**: TMDB & Spotify API integration, search/filter, responsive design  
+🔹 **Deployed**: [Live Demo](https://exhibitly.netlify.app) | [GitHub](https://github.com/hcs-silva/exhibitly)
 
-- - 🚀 Always eager to learn new tools and best practices.  
-  
+### [Primal](https://github.com/hcs-silva/primal) | Browser Game
+🔹 **Stack**: Vanilla JavaScript, HTML5 Canvas, CSS3  
+🔹 **Features**: Collision detection, localStorage scoring, responsive controls  
+🔹 **Deployed**: [Live Demo](https://primal-game.netlify.app) | [GitHub](https://github.com/hcs-silva/primal)
 
-<br/>  
+
+<br>
+
+## 📫 Let's Connect!
+
+I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) across Europe. 
+
+**Open to**: Full-time positions | Remote opportunities | Startup environments
+
+📧 Email: hcsilvamatos5@gmail.com  
+💼 LinkedIn: [hernani-silva-webdev](https://linkedin.com/in/hernani-silva-webdev)  
+🌐 Portfolio: [hernani-silva-dev.netlify.app](https://hernani-silva-dev.netlify.app)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-</div>  
 
-<br/>  
-
+<br>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -78,5 +124,4 @@ Let´s connect.
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
