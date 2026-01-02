@@ -30,7 +30,7 @@ Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeki
 
 ### What I'm working on
 
-🚀 Recent Highlight: Co-developed PawKeeper with Luke Ferrell and Katya Salata - a full-stack pet-sitting marketplace ([link](https://github.com/rephlax/PawKeeper-LHK-FE) featuring real-time messaging (Socket.io), JWT authentication, and MongoDB database
+🚀 Recent Highlight: Co-developed PawKeeper with Luke Ferrell and Katya Salata - a full-stack pet-sitting marketplace ([PawKeeper](https://github.com/rephlax/PawKeeper-LHK-FE)) featuring real-time messaging (Socket.io), JWT authentication, and MongoDB database
 
 
 🔧 **Current Focus**: Deepening TypeScript skills and exploring Next.js for production applications
