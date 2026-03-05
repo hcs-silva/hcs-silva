@@ -29,15 +29,21 @@ Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeki
 <br>
 
 ### What I'm working on
-🏗️ Building Now | Nexus Obra (B2B Construction SaaS) Designing and implementing full-stack workflows for client management, budgeting, and invoicing, focused on real business operations and production readiness.
 
-✅ Proof of Execution | PawKeeper Co-developed with Luke Farrell and Katya Salata - a full-stack pet-sitting marketplace (PawKeeper) featuring JWT authentication, real-time messaging (Socket.io), and MongoDB-backed data flows.
+🏗️ **Building Now | Nexus Obra (B2B Construction SaaS)**
+Designing and implementing full-stack workflows for **client management, budgeting, and invoicing**, focused on real business operations and production readiness.
 
-📈 Growth Track | 2026 Building my own SaaS while continuously improving TypeScript skills to ship safer and more scalable production applications.
+✅ **Proof of Execution | PawKeeper**
+Co-developed with Luke Farrell and Katya Salata - a full-stack pet-sitting marketplace ([PawKeeper](https://github.com/rephlax/PawKeeper-LHK-FE)) featuring JWT authentication, real-time messaging (Socket.io), and MongoDB-backed data flows.
 
-💼 Opportunity Fit Actively seeking Junior Full Stack Developer roles (remote/hybrid) across Europe.
+📈 **Growth Track | 2026**
+Building my own **SaaS** while continuously improving **TypeScript** skills to ship safer and more scalable production applications.
 
-🛠️ Core Tech JavaScript (ES6+), React, Node.js, Express, MongoDB, Git, RESTful APIs
+💼 **Opportunity Fit**
+Actively seeking **Junior Full Stack Developer** roles (remote/hybrid) across Europe.
+
+🛠️ **Core Tech**
+JavaScript (ES6+), React, Node.js, Express, MongoDB, Git, RESTful APIs
 
 ## 🛠️ Tech Stack
 
