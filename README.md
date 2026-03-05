@@ -29,19 +29,15 @@ Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeki
 <br>
 
 ### What I'm working on
+🏗️ Building Now | Nexus Obra (B2B Construction SaaS) Designing and implementing full-stack workflows for client management, budgeting, and invoicing, focused on real business operations and production readiness.
 
-🚀 Recent Highlight: Co-developed PawKeeper with Luke Farrell and Katya Salata - a full-stack pet-sitting marketplace ([PawKeeper](https://github.com/rephlax/PawKeeper-LHK-FE)) featuring real-time messaging (Socket.io), JWT authentication, and MongoDB database
+✅ Proof of Execution | PawKeeper Co-developed with Luke Farrell and Katya Salata - a full-stack pet-sitting marketplace (PawKeeper) featuring JWT authentication, real-time messaging (Socket.io), and MongoDB-backed data flows.
 
+📈 Growth Track | 2026 Building my own SaaS while continuously improving TypeScript skills to ship safer and more scalable production applications.
 
-🔧 **Current Focus**: Deepening TypeScript skills and exploring Next.js for production applications
+💼 Opportunity Fit Actively seeking Junior Full Stack Developer roles (remote/hybrid) across Europe.
 
-
-💼 **Seeking**: Junior Full Stack Developer roles (remote/hybrid) across Europe
-
-
-🛠️ **Core Tech**: JavaScript (ES6+), React, Node.js, Express, MongoDB, Git, RESTful APIs
-  
-
+🛠️ Core Tech JavaScript (ES6+), React, Node.js, Express, MongoDB, Git, RESTful APIs
 
 ## 🛠️ Tech Stack
 
