@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Hernâni Silva
-### Full Stack Web Developer | MERN Stack | Berlin Internship Experience
+### Full Stack Developer building production-ready SaaS | MERN | CI/CD, Scalability & System Design
 
   
 
@@ -30,19 +30,26 @@ Graduated from Ironhack's Full Stack Bootcamp (February 2025) and actively seeki
 
 ### What I'm working on
 
-🏗️ **Building Now | Nexus Obra (B2B Construction SaaS)**
-Designing and implementing full-stack workflows for **client management, budgeting, and invoicing**, focused on real business operations and production readiness.
+🏗️ **Building Now | Nexus Obra (B2B SaaS)**  
+Building a **production-ready, multi-tenant construction management platform** with a strong focus on **scalability, reliability, and real-world workflows**.
 
-✅ **Proof of Execution | PawKeeper**
+- 🚀 **Production-grade architecture (94–95% readiness)** — CI/CD pipelines, Dockerized deployment, automated releases, and enforced quality gates (testing, coverage, linting)  
+- 🔐 **Secure auth & session lifecycle** — JWT access/refresh flow, server-driven auth state, protected routes, and resilient API layer with retry logic  
+- 🏢 **Core business systems implemented** — project (obra) management, financial tracking (despesas), team management, planning (Gantt + dependencies), time tracking, and Stripe-based billing  
+- ⚙️ **Scalable by design** — stateless architecture, tenant isolation, Cloudinary + Stripe offloading, and observability baseline (metrics, logs, health checks)  
+- 📊 **Current focus** — expanding test coverage, improving observability, and optimizing scalability (caching, code splitting, CDN delivery)
+
+  
+✅ **Proof of Execution | PawKeeper**  
 Co-developed with Luke Farrell and Katya Salata - a full-stack pet-sitting marketplace ([PawKeeper](https://github.com/rephlax/PawKeeper-LHK-FE)) featuring JWT authentication, real-time messaging (Socket.io), and MongoDB-backed data flows.
 
-📈 **Growth Track | 2026**
+📈 **Growth Track | 2026**  
 Building my own **SaaS** while continuously improving **TypeScript** skills to ship safer and more scalable production applications.
 
-💼 **Opportunity Fit**
+💼 **Opportunity Fit**  
 Actively seeking **Junior Full Stack Developer** roles (remote/hybrid) across Europe.
 
-🛠️ **Core Tech**
+🛠️ **Core Tech**  
 JavaScript (ES6+), React, Node.js, Express, MongoDB, Git, RESTful APIs
 
 ## 🛠️ Tech Stack
@@ -100,8 +107,6 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 
 
 
-
-
 <br>
 
 # 📊 GitHub Stats:
@@ -112,8 +117,6 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hcs-silva&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-
-
 ---
 
 <div align="center">
@@ -123,5 +126,3 @@ I'm actively seeking **Junior Full Stack Developer roles** (remote/hybrid) acros
 ![GitHub stars](https://img.shields.io/github/stars/hcs-silva?affiliations=OWNER&style=social)
 
 </div>
-
-
